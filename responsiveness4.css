@@ -1,0 +1,18 @@
+@media screen and (max-width:388px) {
+    .header .content{
+        padding-top:100px;
+        padding-left:40px;
+    }
+    .content .row .column img{
+       display:none;
+    }
+}
+@media screen and (max-width:551px) {
+    .header .content{
+        padding-top:100px;
+        padding-left:110px;
+    }
+    .content .row .column img{
+       display:none;
+    }
+}
